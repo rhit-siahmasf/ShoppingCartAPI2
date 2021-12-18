@@ -1,0 +1,8 @@
+{
+    "discounts":[ 
+        {
+            "discountID": "perc-bhpp-5y7c3-gy1",
+            "type": "percent"
+        }
+    ] 
+}

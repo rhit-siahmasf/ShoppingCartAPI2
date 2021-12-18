@@ -1,0 +1,46 @@
+[
+    {
+        "cartSessionID": "dh-km88-p3t7fsf-87aqv",
+        "items": [ 
+            {"itemID": "bbcdh-89754-fdsjf-34rdf",
+            "title": "Lego Set",
+            "unitPrice": 14.99,
+            "quantitySelected": 4,
+            "dateCreated" : "2021-01-084T11:44:07.221Z",
+            "supplier": "Best Buy",
+            "description": "lorem episum",
+            "tags": [
+                {"name": "toys, children-toys, educational-toys"}
+            ],
+            "image": "9587439573947594753.jpg",
+            "vendor": "iofsdhfois8129",
+            "available": true,
+            "taxable": true,
+            "additionProperties": [
+                {
+
+                }
+            ]},
+            { "itemID": "aalxdh-50954-yttqn-ppo8e",
+            "title": "Barbie Doll",
+            "unitPrice": 22.00,
+            "quantitySelected": 15,
+            "dateCreated" : "2020-11-034T11:44:07.221Z",
+            "supplier": "Children's Playground",
+            "description": "lorem episum",
+            "tags": [
+                {"name": "toys, children-toys, girl-toys, dolls"}
+            ],
+            "image": "00342743872594753.jpg",
+            "vendor": "plths83942nfkjds",
+            "available": true,
+            "taxable": true,
+            "additionProperties": [
+                {
+    
+                }
+            ]}
+        ]
+    }
+]
+        
